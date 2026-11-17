@@ -1,8 +1,8 @@
 {
-  "version": "1.0.11",
-  "nombre": "ARREGLO DEL MODO WI-FI",
-  "tam": 8075712,
-  "sha256": "7688dea97a02f4b77b542966ec3052a5bed9fe3503a0999afeac876d5acc043d",
-  "fecha": "2026-11-17T21:48Z",
-  "commit": "2b2cc61"
+  "version": "1.0.14",
+  "nombre": "MÁS MEMORIA LIBRE",
+  "tam": 8056416,
+  "sha256": "e671516456f3e38765490ce7b047ab6e9eee6c436ca9794ae948ced8f5aefd79",
+  "fecha": "2026-11-17T23:00Z",
+  "commit": "0329b58"
 }
