@@ -1,8 +1,9 @@
 {
-  "version": "1.0.16",
-  "nombre": "ARREGLO AL CREAR MASCOTA",
-  "tam": 8060624,
-  "sha256": "ef2f735d527308e8dad0ab8579061e3d977adf7168c051a1beca857033ab5df3",
-  "fecha": "2026-11-17T23:37Z",
-  "commit": "7aa3bd7"
+  "version": "1.0.17",
+  "nombre": "JUEGOS DE A DOS",
+  "tam": 8082000,
+  "sha256": "87831d624ffbedbcb4a3b8d2821f1b48e1ff632d2cd8a0506017dbb3f66b8b98",
+  "fecha": "2026-11-18T00:26Z",
+  "commit": "b278014",
+  "recursos": "pj0.bin:52821:248a13e3 pj1.bin:47076:83b69fc7 pj2.bin:52720:fcc3bf77 pj3.bin:51171:8e2ad602"
 }
