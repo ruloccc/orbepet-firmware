@@ -1,9 +1,9 @@
 {
-  "version": "1.0.19",
-  "nombre": "ARREGLO DE LOS JUEGOS",
-  "tam": 8102496,
-  "sha256": "368cd02d617c566bb149095ace20cb749579dca3114589966f213f4fb8162a1f",
-  "fecha": "2026-11-18T04:01Z",
-  "commit": "759e61f",
+  "version": "1.0.20",
+  "nombre": "SOPLIDO E INFORMES",
+  "tam": 8107456,
+  "sha256": "c135e2d4a31f04e25a6b11dc73ed2a517cba0e84373c93daaf154da7f03adb65",
+  "fecha": "2026-11-18T10:05Z",
+  "commit": "3a58690",
   "recursos": "pj0.bin:83230:51f4e9ae pj1.bin:128776:80064c85 pj2.bin:85508:03371bfd pj3.bin:154152:421c64c0 pj4.bin:133352:b5275f31 pj5.bin:53898:e5fd7e1e"
 }
