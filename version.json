@@ -1,9 +1,9 @@
 {
-  "version": "1.0.21",
-  "nombre": "MICRÓFONO Y FONDOS",
-  "tam": 8108240,
-  "sha256": "11534db9bf18ceffd5873b7d9991d6cbb1bdf48646a052c4f89e2372a81da727",
-  "fecha": "2026-11-18T17:43Z",
-  "commit": "7929937",
+  "version": "1.0.22",
+  "nombre": "MÁS FLUIDO",
+  "tam": 8108912,
+  "sha256": "f525dcb05c4e2d87a902b03d20f1c3114093585ec9ad4b10797a09efd49b2679",
+  "fecha": "2026-11-18T18:49Z",
+  "commit": "b81dd64",
   "recursos": "pj0.bin:83230:51f4e9ae pj1.bin:128776:80064c85 pj2.bin:85508:03371bfd pj3.bin:154152:421c64c0 pj4.bin:133352:b5275f31 pj5.bin:53898:e5fd7e1e"
 }
