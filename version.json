@@ -1,9 +1,9 @@
 {
-  "version": "1.0.18",
-  "nombre": "EL FARO Y EL BUCEO",
-  "tam": 8098544,
-  "sha256": "240ea5e17f150cf407db6cde05b97c08cd41564fcf44f60e8d177f9f82fa454b",
-  "fecha": "2026-11-18T02:48Z",
-  "commit": "1740e03",
-  "recursos": "pj0.bin:52821:248a13e3 pj1.bin:47076:83b69fc7 pj2.bin:52720:fcc3bf77 pj3.bin:51171:8e2ad602 pj4.bin:41680:c43b03e7 pj5.bin:57966:f1cfaf78"
+  "version": "1.0.19",
+  "nombre": "ARREGLO DE LOS JUEGOS",
+  "tam": 8102496,
+  "sha256": "368cd02d617c566bb149095ace20cb749579dca3114589966f213f4fb8162a1f",
+  "fecha": "2026-11-18T04:01Z",
+  "commit": "759e61f",
+  "recursos": "pj0.bin:83230:51f4e9ae pj1.bin:128776:80064c85 pj2.bin:85508:03371bfd pj3.bin:154152:421c64c0 pj4.bin:133352:b5275f31 pj5.bin:53898:e5fd7e1e"
 }
