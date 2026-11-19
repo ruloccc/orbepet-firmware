@@ -1,9 +1,9 @@
 {
-  "version": "1.0.23",
-  "nombre": "PRUEBAS, POCHI Y FARO",
-  "tam": 8110592,
-  "sha256": "2f993cf3ab47a83803c966a6fb0c26388a87f8e7f3d9176f2a43faf81474868a",
-  "fecha": "2026-11-18T19:47Z",
-  "commit": "595cdba",
+  "version": "1.0.24",
+  "nombre": "DESPEDIDA Y SONIDOS SIN TIRONES",
+  "tam": 8129008,
+  "sha256": "5fd34250e01245318b4ce1c033a03fc7d1838074ea3b23d57d029f4b09fdbae3",
+  "fecha": "2026-11-18T23:41Z",
+  "commit": "337afeb",
   "recursos": "pj0.bin:83230:51f4e9ae pj1.bin:128776:80064c85 pj2.bin:85508:03371bfd pj3.bin:154152:421c64c0 pj4.bin:78145:e28fdeb6 pj5.bin:53898:e5fd7e1e"
 }
